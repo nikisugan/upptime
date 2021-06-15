@@ -5,10 +5,9 @@ user-agent: nikisugan
 
 sites:
   name: One Portal
-    url: https://one.motivit.com/
-    icon: https://one.motivit.com/public/images/one_logo_login.png
-
-
+   url: https://one.motivit.com/
+   icon: https://one.motivit.com/public/images/one_logo_login.png
+   
 status-website:
 js: "window.onload = function() { alert('Hello!') }"
 theme: dark
